@@ -1,0 +1,29 @@
+.pageheader{
+    width: 100%;
+    position: relative;
+}
+.pageheader img{
+    width: 100%;
+}
+.pageheader-content-wrapper{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 50%;
+    left: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+.pageheader-link{
+    display: flex;
+    gap: 10px;
+}
+.pageaheder-link-btns{
+    text-decoration: none;
+    color: var(--exam-BL);
+}
+.pageheader-link span{
+    color: var(--exam-GR);
+}

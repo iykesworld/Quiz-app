@@ -1,0 +1,1083 @@
+[
+    {
+        "id": 1,
+        "question": "Which country won the first-ever FIFA World Cup in 1930?",
+        "options": [
+            "Brazil",
+            "Germany",
+            "Uruguay",
+            "Spain"
+        ],
+        "answer": "Uruguay",
+        "category": "sports"
+    },
+    {
+        "id": 2,
+        "question": "How many players are there in a standard football team?",
+        "options": [
+            "11",
+            "12",
+            "10",
+            "24"
+        ],
+        "answer": "11",
+        "category": "sports"
+    },
+    {
+        "id": 3,
+        "question": "Who is the all-time top scorer in the FIFA World Cup?",
+        "options": [
+            "Kylian Mbappe (France)",
+            "Ronaldo De'Limas (Brazil)",
+            "Miroslav Klose (Germany)",
+            "Samuel Eto'o (Cameroon)"
+        ],
+        "answer": "Miroslav Klose (Germany)",
+        "category": "sports"
+    },
+    {
+        "id": 4,
+        "question": "What is the official governing body of world football?",
+        "options": [
+            "FIFA (Fédération Internationale de Football Association)",
+            "FIBA (Fédération Internationale de Ball Association)",
+            "FIFFA (Fédération Internationale de Football Fans Association)",
+            "FIFSA (Fédération Internationale de Football sports Association)"
+        ],
+        "answer": "FIFA (Fédération Internationale de Football Association)",
+        "category": "sports"
+    },
+    {
+        "id": 5,
+        "question": "Which English club has won the most Premier League titles?",
+        "options": [
+            "Chelsea",
+            "Man City",
+            "Arsenal",
+            "Manchester United"
+        ],
+        "answer": "Manchester United",
+        "category": "sports"
+    },
+    {
+        "id": 6,
+        "question": "Which club has won the most UEFA Champions League titles?",
+        "options": [
+            "Barcelona",
+            "Real Madrid",
+            "Juventus",
+            "AC Milan"
+        ],
+        "answer": "Real Madrid",
+        "category": "sports"
+    },
+    {
+        "id": 7,
+        "question": "Who scored the fastest goal in a Champions League final?",
+        "options": [
+            "Paolo Maldini (AC Milan, 2005 final - 50 seconds)",
+            "Cristiano Ronaldo (Real Madrid, 2012 group stage - 45 seconds)",
+            "Zlatan Ibrahimovic (Inter Milan, 2010 semi final - 50 seconds)",
+            "Zinedine Zidane (Real Madrid, 2005 group stage - 50 seconds)"
+        ],
+        "answer": "Paolo Maldini (AC Milan, 2005 final - 50 seconds)",
+        "category": "sports"
+    },
+    {
+        "id": 8,
+        "question": "In what year was the Champions League introduced?",
+        "options": [
+            "1989",
+            "1991",
+            "1992",
+            "1988"
+        ],
+        "answer": "1992",
+        "category": "sports"
+    },
+    {
+        "id": 9,
+        "question": "Which player has won the most Champions League titles?",
+        "options": [
+            "Paco Gento (6 titles with Real Madrid)",
+            "Sergio Ramos (6 titles with Real Madrid)",
+            "Gonzalo Higuan (6 titles with Real Madrid)",
+            "Cristiano Ronaldo (6 titles with Real Madrid)"
+        ],
+        "answer": "Paco Gento (6 titles with Real Madrid)",
+        "category": "sports"
+    },
+    {
+        "id": 10,
+        "question": "Who was the top scorer in the 2022/23 Champions League season?",
+        "options": [
+            "Viniscus Jnr",
+            "Kylian Mbappe",
+            "Erling Haaland",
+            "Robert Lewandowski"
+        ],
+        "answer": "Erling Haaland",
+        "category": "sports"
+    },
+    {
+        "id": 11,
+        "question": "Which country has won the most FIFA World Cups?",
+        "options": [
+            "Brazil (5 titles)",
+            "England (5 titles)",
+            "Italy (5 titles)",
+            "France (5 titles)"
+        ],
+        "answer": "Brazil (5 titles)",
+        "category": "sports"
+    },
+    {
+        "id": 12,
+        "question": "Who is the youngest player to score in a World Cup final?",
+        "options": [
+            "Miroslav Klose (2006, 17 years old)",
+            "Thiery Henry (1998, 17 years old)",
+            "Kylian Mbappe (2018, 17 years old)",
+            "Pelé (1958, 17 years old)"
+        ],
+        "answer": "Pelé (1958, 17 years old)",
+        "category": "sports"
+    },
+    {
+        "id": 13,
+        "question": "Which country hosted the 2018 FIFA World Cup?",
+        "options": [
+            "Qatar",
+            "Korea/Japan",
+            "Germany",
+            "Russia"
+        ],
+        "answer": "Russia",
+        "category": "sports"
+    },
+    {
+        "id": 14,
+        "question": "What was the fastest goal scored in World Cup history?",
+        "options": [
+            "Roberto Carlos (Brazil, 2002 – 8 seconds)",
+            "Hakan Şükür (Turkey, 2002 – 11 seconds)",
+            "Keiji Tamada (Japan, 2006 – 15 seconds)",
+            "Zinedine Zidane (France, 2006 – 20 seconds)"
+        ],
+        "answer": "Hakan Şükür (Turkey, 2002 – 11 seconds)",
+        "category": "sports"
+    },
+    {
+        "id": 15,
+        "question": "Which player has the most World Cup appearances?",
+        "options": [
+            "Lothar Matthäus (Germany - 25 matches)",
+            "Paolo Maldini (Italy - 25 matches)",
+            "Ronaldinho (Brazil - 25 matches)",
+            "Andre Pirlo (Italy - 25 matches)"
+        ],
+        "answer": "Lothar Matthäus (Germany - 25 matches)",
+        "category": "sports"
+    },
+    {
+        "id": 16,
+        "question": "Which team won the first-ever Premier League title in 1992/93?",
+        "options": [
+            "Manchester United",
+            "Newcastle United",
+            "Bolton Wanderers",
+            "Liverpool"
+        ],
+        "answer": "Manchester United",
+        "category": "sports"
+    },
+    {
+        "id": 17,
+        "question": "Who holds the record for the most goals in a single Premier League season?",
+        "options": [
+            "Alan Shearer (36 goals, 2000/01 season)",
+            "Wayne Rooney (36 goals, 2011/12 season)",
+            "Sergio Aguero (36 goals, 2018/19 season)",
+            "Erling Haaland (36 goals, 2022/23 season)"
+        ],
+        "answer": "Erling Haaland (36 goals, 2022/23 season)",
+        "category": "sports"
+    },
+    {
+        "id": 18,
+        "question": "Which club holds the record for the longest unbeaten run in the Premier League?",
+        "options": [
+            "Chelsea (49 matches)",
+            "Liverpool (49 matches)",
+            "Manchester United",
+            "Arsenal (49 matches)"
+        ],
+        "answer": "Arsenal (49 matches)",
+        "category": "sports"
+    },
+    {
+        "id": 19,
+        "question": "Which team was relegated from the Premier League in 2020 but returned in 2021?",
+        "options": [
+            "Burnley",
+            "Hull City",
+            "Norwich City",
+            "QPR"
+        ],
+        "answer": "Norwich City",
+        "category": "sports"
+    },
+    {
+        "id": 20,
+        "question": "Who is La Liga’s all-time top scorer?",
+        "options": [
+            "Luis Figo",
+            "Cristiano Ronaldo",
+            "Lionel Messi",
+            "Raul Gonzalez"
+        ],
+        "answer": "Lionel Messi",
+        "category": "sports"
+    },
+    {
+        "id": 21,
+        "question": "Which African country has won the most AFCON titles?",
+        "options": [
+            "Egypt",
+            "Nigeria",
+            "Morrocco",
+            "Cameroon"
+        ],
+        "answer": "Egypt",
+        "category": "sports"
+    },
+    {
+        "id": 22,
+        "question": "Who was the first African player to win the Ballon d’Or?",
+        "options": [
+            "George Weah (Liberia, 1995)",
+            "Abedi Pele (Cameroon, 1995)",
+            "Rashidi Yakini (Nigeria, 1995",
+            "ElHadji Diouf (Senegal, 1995)" 
+        ],
+        "answer": "George Weah (Liberia, 1995)",
+        "category": "sports"
+    },
+    {
+        "id": 23,
+        "question": "Which African player has the most Premier League goals?",
+        "options": [
+            "Yakubu Aigbeni",
+            "Didier Drogba",
+            "Mohamed Salah",
+            "Sadio Mane" 
+        ],
+        "answer": "Mohamed Salah",
+        "category": "sports"
+    },
+    {
+        "id": 24,
+        "question": "In what year did South Africa host the FIFA World Cup?",
+        "options": [
+            "2010",
+            "2014",
+            "2018",
+            "2006" 
+        ],
+        "answer": "2010",
+        "category": "sports"
+    },
+    {
+        "id": 25,
+        "question": "Who is the top scorer in AFCON history?",
+        "options": [
+            "Mohammed Salah (Egypt)",
+            "Emmanuel Adebayor (Togo)",
+            "Kanu Nwankwo (Nigeria)",
+            "Samuel Eto’o (Cameroon)" 
+        ],
+        "answer": "Samuel Eto’o (Cameroon)",
+        "category": "sports"
+    },
+    {
+        "id": 26,
+        "question": "How many substitutions are allowed in a match (as of 2023)?",
+        "options": [
+            "5 substitutions",
+            "3 substitutions",
+            "6 substitutions",
+            "4 substitutions" 
+        ],
+        "answer": "5 substitutions",
+        "category": "sports"
+    },
+    {
+        "id": 27,
+        "question": "Which team did Lionel Messi join after leaving Barcelona in 2021?",
+        "options": [
+            "Inter Miami",
+            "Paris Saint-Germain (PSG)",
+            "Al Hilal",
+            "Lyon" 
+        ],
+        "answer": "Paris Saint-Germain (PSG)",
+        "category": "sports"
+    },
+    {
+        "id": 28,
+        "question": "Who has won the most European Golden Shoes (most goals in a European season)?",
+        "options": [
+            "Cristiano Ronaldo (7 times)",
+            "Lionel Messi (6 times)",
+            "Ronaldinho (6 times)",
+            "Samuel Eto'o (7 times)" 
+        ],
+        "answer": "Lionel Messi (6 times)",
+        "category": "sports"
+    },
+    {
+        "id": 29,
+        "question": "Who was the top scorer in the 2022 FIFA World Cup?",
+        "options": [
+            "Kylian Mbappé (8 goals)",
+            "Lionel Messi (9 goals)",
+            "Cristiano Ronaldo (10 times)",
+            "Harry Kane (7 times)" 
+        ],
+        "answer": "Kylian Mbappé (8 goals)",
+        "category": "sports"
+    },
+    {
+        "id": 30,
+        "question": "Which team won the Miracle of Istanbul in the 2005 Champions League final?",
+        "options": [
+            "Real Madrid (vs Liverpool)",
+            "Manchester United (vs Chelsea)",
+            "Barcelona (vs Arsenal)",
+            "Liverpool (vs. AC Milan)" 
+        ],
+        "answer": "Liverpool (vs. AC Milan)",
+        "category": "sports"
+    },
+    {
+        "id": 31,
+        "question": "What is the chemical symbol for gold?",
+        "options": [
+            "Au",
+            "Ag",
+            "Ab",
+            "gd" 
+        ],
+        "answer": "Au",
+        "category": "science"
+    },
+    {
+        "id": 32,
+        "question": "What is the powerhouse of the cell?",
+        "options": [
+            "Proton",
+            "Nucleus",
+            "DNA",
+            "Mitochondria" 
+        ],
+        "answer": "Mitochondria",
+        "category": "science"
+    },
+    {
+        "id": 33,
+        "question": "What planet is known as the Red Planet?",
+        "options": [
+            "Mercury",
+            "Venus",
+            "Jupiter",
+            "Mars" 
+        ],
+        "answer": "Mars",
+        "category": "science"
+    },
+    {
+        "id": 34,
+        "question": "What is the boiling point of water in Celsius?",
+        "options": [
+            "1000°C",
+            "200°C",
+            "100°C",
+            "150°C" 
+        ],
+        "answer": "100°C",
+        "category": "science"
+    },
+    {
+        "id": 35,
+        "question": "Who developed the theory of relativity?",
+        "options": [
+            "Marie Curie",
+            "Isaac Newton",
+            "Albert Einstein",
+            "Michael Faraday" 
+        ],
+        "answer": "Albert Einstein",
+        "category": "science"
+    },
+    {
+        "id": 36,
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Mechanical energy",
+            "Potential energy",
+            "Kinetic energy",
+            "Chemical energy" 
+        ],
+        "answer": "Potential energy",
+        "category": "science"
+    },
+    {
+        "id": 37,
+        "question": "What is the SI unit of electric current?",
+        "options": [
+            "Kelvin (K)",
+            "Mole (Mol)",
+            "Ampere (A)",
+            "Farad (F)" 
+        ],
+        "answer": "Ampere (A)",
+        "category": "science"
+    },
+    {
+        "id": 38,
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": [
+            "Oxygen (80%)",
+            "Nitrogen (78%)",
+            "CO2 (70%)",
+            "Ammonia (96%)" 
+        ],
+        "answer": "Nitrogen (78%)",
+        "category": "science"
+    },
+    {
+        "id": 39,
+        "question": "What is the chemical formula of water?",
+        "options": [
+            "H₂O",
+            "H₂HO",
+            "H₂OH",
+            "H₂0OH" 
+        ],
+        "answer": "H₂O",
+        "category": "science"
+    },
+    {
+        "id": 40,
+        "question": "Which element is represented by the symbol 'Fe'?",
+        "options": [
+            "Iron",
+            "Magnate",
+            "Fuel",
+            "Ferantyl" 
+        ],
+        "answer": "Iron",
+        "category": "science"
+    },
+    {
+        "id": 41,
+        "question": "What acid is found in lemons and oranges?",
+        "options": [
+            "Sweet acid",
+            "Orange acid",
+            "Nitric acid",
+            "Citric acid" 
+        ],
+        "answer": "Citric acid",
+        "category": "science"
+    },
+    {
+        "id": 42,
+        "question": "What is the pH value of a neutral substance?",
+        "options": [
+            "14",
+            "1",
+            "7",
+            "0" 
+        ],
+        "answer": "7",
+        "category": "science"
+    },
+    {
+        "id": 43,
+        "question": "What is the basic unit of life?",
+        "options": [
+            "Nucleus",
+            "Cell",
+            "Proton",
+            "Mitochondrion" 
+        ],
+        "answer": "Cell",
+        "category": "science"
+    },
+    {
+        "id": 44,
+        "question": "What is the largest organ in the human body?",
+        "options": [
+            "Muscle",
+            "Skin",
+            "Liver",
+            "Heart" 
+        ],
+        "answer": "Skin",
+        "category": "science"
+    },
+    {
+        "id": 45,
+        "question": "What is the process by which plants make their own food?",
+        "options": [
+            "Respiration",
+            "Diffusion",
+            "Osmosis",
+            "Photosynthesis" 
+        ],
+        "answer": "Photosynthesis",
+        "category": "science"
+    },
+    {
+        "id": 46,
+        "question": "How many bones does an adult human have?",
+        "options": [
+            "206",
+            "300",
+            "250",
+            "186" 
+        ],
+        "answer": "206",
+        "category": "science"
+    },
+    {
+        "id": 47,
+        "question": "Which planet is the largest in the Solar System?",
+        "options": [
+            "Venus",
+            "Jupiter",
+            "Pluto",
+            "Mars" 
+        ],
+        "answer": "Jupiter",
+        "category": "science"
+    },
+    {
+        "id": 48,
+        "question": "What is the main function of red blood cells?",
+        "options": [
+            "Sustain life",
+            "Carry oxygen",
+            "Pump blood",
+            "Help digestion" 
+        ],
+        "answer": "Carry oxygen",
+        "category": "science"
+    },
+    {
+        "id": 49,
+        "question": "Which organ is responsible for filtering blood in the human body?",
+        "options": [
+            "Liver",
+            "Kidney",
+            "Heart",
+            "Lungs" 
+        ],
+        "answer": "Kidney",
+        "category": "science"
+    },
+    {
+        "id": 50,
+        "question": "How many chambers does the human heart have?",
+        "options": [
+            "6",
+            "8",
+            "3",
+            "4" 
+        ],
+        "answer": "4",
+        "category": "science"
+    },
+    {
+        "id": 51,
+        "question": "Who is known as the King of Pop?",
+        "options": [
+            "Michael Jackson",
+            "Lady Gaga",
+            "R Kelly",
+            "Diana Rose" 
+        ],
+        "answer": "Michael Jackson",
+        "category": "music"
+    },
+    {
+        "id": 52,
+        "question": "What is the best-selling album of all time?",
+        "options": [
+            "Thriller by Michael Jackson",
+            "Mugshot by 2Pac",
+            "Care about us by Michael Jackson",
+            "Forever Young by Jay Z" 
+        ],
+        "answer": "Thriller by Michael Jackson",
+        "category": "music"
+    },
+    {
+        "id": 53,
+        "question": "What does BPM stand for in music?",
+        "options": [
+            "Bits Per Mime",
+            "Beeps Per Minute",
+            "Beats Per Minute",
+            "Beefs Per Minute" 
+        ],
+        "answer": "Beats Per Minute",
+        "category": "music"
+    },
+    {
+        "id": 54,
+        "question": "What does R&B stand for in music?",
+        "options": [
+            "Rhymes and Blues",
+            "Rhythm and Beats",
+            "Rhythm and Beats",
+            "Rhythm and Blues" 
+        ],
+        "answer": "Rhythm and Blues",
+        "category": "music"
+    },
+    {
+        "id": 55,
+        "question": "What year did the first Grammy Awards take place?",
+        "options": [
+            "1943",
+            "1950",
+            "1969",
+            "1959" 
+        ],
+        "answer": "1959",
+        "category": "music"
+    },
+    {
+        "id": 56,
+        "question": "What is the name of the device that DJs use to scratch vinyl records?",
+        "options": [
+            "Turntable",
+            "Disc Jockey",
+            "Record Plate",
+            "Sound effects" 
+        ],
+        "answer": "Turntable",
+        "category": "music"
+    },
+    {
+        "id": 57,
+        "question": "What is the highest vocal range in classical singing?",
+        "options": [
+            "Soprano",
+            "Alto",
+            "Tenor",
+            "Bass" 
+        ],
+        "answer": "Soprano",
+        "category": "music"
+    },
+    {
+        "id": 58,
+        "question": "Who is considered the pioneer of Afrobeat music?",
+        "options": [
+            "2Face Idibia",
+            "King Sunny Ade",
+            "Fela Kuti",
+            "Chief Osita Osadebe" 
+        ],
+        "answer": "Fela Kuti",
+        "category": "music"
+    },
+    {
+        "id": 59,
+        "question": "What is the name of Wizkid's international hit song featuring Drake?",
+        "options": [
+            "Ojuelegba",
+            "One Dance",
+            "Hotline Bling",
+            "Holla at your boy" 
+        ],
+        "answer": "One Dance",
+        "category": "music"
+    },
+    {
+        "id": 60,
+        "question": "Which Ghanaian artist is known for popularizing the Azonto dance and music style?",
+        "options": [
+            "Sarkodie",
+            "R2Bees",
+            "Shatta Wale",
+            "Stone boy" 
+        ],
+        "answer": "Sarkodie",
+        "category": "music"
+    },
+    {
+        "id": 61,
+        "question": "Which African artist is known for the global hit song Jerusalema ?",
+        "options": [
+            "Burna Boy",
+            "Master KG (featuring Nomcebo Zikode)",
+            "Tiwa Savage",
+            "Uncle Waffle" 
+        ],
+        "answer": "Master KG (featuring Nomcebo Zikode)",
+        "category": "music"
+    },
+    {
+        "id": 62,
+        "question": "Who is known as the African Giant in the music industry?",
+        "options": [
+            "Burna Boy",
+            "Davido",
+            "Wizkid",
+            "Fela Kuti" 
+        ],
+        "answer": "Burna Boy",
+        "category": "music"
+    },
+    {
+        "id": 63,
+        "question": "Which African country is the home of the music genre Amapiano?",
+        "options": [
+            "Nigeria",
+            "Ghana",
+            "Congo",
+            "South Africa" 
+        ],
+        "answer": "South Africa",
+        "category": "music"
+    },
+    {
+        "id": 64,
+        "question": "What is the name of Davido’s record label?",
+        "options": [
+            "DMW (Davido Movement Worldwide)",
+            "DMW (Davido music Worldwide)",
+            "DMW (Davido Men Worldwide)",
+            "DMW (Davido musicians Worldwide)" 
+        ],
+        "answer": "DMW (Davido music Worldwide)",
+        "category": "music"
+    },
+    {
+        "id": 65,
+        "question": "Who is the first African artist to sell out the O2 Arena in London?",
+        "options": [
+            "Davido",
+            "Wizkid",
+            "Burna Boy",
+            "Rema" 
+        ],
+        "answer": "Wizkid",
+        "category": "music"
+    },
+    {
+        "id": 66,
+        "question": "Who is the founder of Mavin Records?",
+        "options": [
+            "Dbanj",
+            "Don Jazzy",
+            "Tiwa Savage",
+            "Timaya" 
+        ],
+        "answer": "Don Jazzy",
+        "category": "music"
+    },
+    {
+        "id": 67,
+        "question": "Which South African artist featured Wizkid on the song Energy?",
+        "options": [
+            "AKA",
+            "DJ Maphorisa",
+            "Master KG",
+            "Uncle waffle" 
+        ],
+        "answer": "AKA",
+        "category": "music"
+    },
+    {
+        "id": 68,
+        "question": "Which Nigerian artist is known for the hit song Fem?",
+        "options": [
+            "Davido",
+            "Vector",
+            "M I",
+            "Phyno" 
+        ],
+        "answer": "Davido",
+        "category": "music"
+    },
+    {
+        "id": 69,
+        "question": "Which song by Kizz Daniel became a global dance challenge in 2022?",
+        "options": [
+            "Cough",
+            "Twe Twe",
+            "Oshe",
+            "Buga" 
+        ],
+        "answer": "Buga",
+        "category": "music"
+    },
+    {
+        "id": 70,
+        "question": "Which Nigerian rapper is known for hits like Ghost Mode and Fada Fada?",
+        "options": [
+            "Flavor",
+            "Phyno",
+            "Olamide",
+            "Ill Bliss" 
+        ],
+        "answer": "Phyno",
+        "category": "music"
+    },
+    {
+        "id": 71,
+        "question": "What is the capital of France?",
+        "options": [
+            "Monaco",
+            "Paris",
+            "Maseille",
+            "Lyon" 
+        ],
+        "answer": "Paris",
+        "category": "general"
+    },
+    {
+        "id": 72,
+        "question": "How many continents are there on Earth?",
+        "options": [
+            "Seven",
+            "Eight",
+            "Six",
+            "Eleven" 
+        ],
+        "answer": "Seven",
+        "category": "general"
+    },
+    {
+        "id": 73,
+        "question": "Who was the first President of the United States?",
+        "options": [
+            "Abraham Lincoln",
+            "Bill Clinto",
+            "George Bush",
+            "George Washington" 
+        ],
+        "answer": "George Washington",
+        "category": "general"
+    },
+    {
+        "id": 74,
+        "question": "What is the largest ocean on Earth?",
+        "options": [
+            "Atlantic Ocean",
+            "Red Sea",
+            "Pacific Ocean",
+            "River Nile" 
+        ],
+        "answer": "Pacific Ocean",
+        "category": "general"
+    },
+    {
+        "id": 75,
+        "question": "Which element is necessary for breathing?",
+        "options": [
+            "Carbondioxide",
+            "Nitrogen",
+            "Oxygen",
+            "H20" 
+        ],
+        "answer": "Oxygen",
+        "category": "general"
+    },
+    {
+        "id": 76,
+        "question": "What is the tallest mountain in the world?",
+        "options": [
+            "Mount Everest",
+            "Mountain Kilimanjaro",
+            "Himalayas Mountain",
+            "Mountain Texas" 
+        ],
+        "answer": "Mount Everest",
+        "category": "general"
+    },
+    {
+        "id": 77,
+        "question": "How many bones are there in the human body?",
+        "options": [
+            "206",
+            "200",
+            "202",
+            "210" 
+        ],
+        "answer": "206",
+        "category": "general"
+    },
+    {
+        "id": 78,
+        "question": "What is the currency of Japan?",
+        "options": [
+            "Yuan",
+            "Dinar",
+            "Kwan",
+            "Yen" 
+        ],
+        "answer": "Yen",
+        "category": "general"
+    },
+    {
+        "id": 79,
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Carbon monooxide",
+            "Nitrogen" 
+        ],
+        "answer": "Carbon dioxide",
+        "category": "general"
+    },
+    {
+        "id": 80,
+        "question": "What is the longest river in the world?",
+        "options": [
+            "The Niger River",
+            "The Nile River",
+            "The Sinai River",
+            "The Mississippi River" 
+        ],
+        "answer": "The Nile River",
+        "category": "general"
+    },
+    {
+        "id": 81,
+        "question": "How many players are there in a standard soccer team?",
+        "options": [
+            "11",
+            "24",
+            "14",
+            "12" 
+        ],
+        "answer": "11",
+        "category": "general"
+    },
+    {
+        "id": 82,
+        "question": "Which is the smallest country in the world?",
+        "options": [
+            "Seychelle",
+            "Cuba",
+            "Panama",
+            "Vatican City" 
+        ],
+        "answer": "Vatican City",
+        "category": "general"
+    },
+    {
+        "id": 83,
+        "question": "Which language has the most native speakers in the world?",
+        "options": [
+            "Mandarin Chinese",
+            "English",
+            "Japanese",
+            "Indo" 
+        ],
+        "answer": "Mandarin Chinese",
+        "category": "general"
+    },
+    {
+        "id": 84,
+        "question": "What is the hardest natural substance on Earth?",
+        "options": [
+            "Gold",
+            "Diamond",
+            "Carbon",
+            "Coal" 
+        ],
+        "answer": "Diamond",
+        "category": "general"
+    },
+    {
+        "id": 85,
+        "question": "Which is the most widely spoken language in the world?",
+        "options": [
+            "Mandarin",
+            "Japanese",
+            "English",
+            "Russian" 
+        ],
+        "answer": "English",
+        "category": "general"
+    },
+    {
+        "id": 86,
+        "question": "What is the square root of 64?",
+        "options": [
+            "6",
+            "7",
+            "9",
+            "8" 
+        ],
+        "answer": "8",
+        "category": "general"
+    },
+    {
+        "id": 87,
+        "question": "Which sport is known as the king of sports?",
+        "options": [
+            "Basketball",
+            "Boxing",
+            "Soccer (Football)",
+            "Cricket" 
+        ],
+        "answer": "Soccer (Football)",
+        "category": "general"
+    },
+    {
+        "id": 88,
+        "question": "What does the “H” in H2O stand for?",
+        "options": [
+            "Hydrogen",
+            "Helium",
+            "Hormone",
+            "Human" 
+        ],
+        "answer": "Hydrogen",
+        "category": "general"
+    },
+    {
+        "id": 89,
+        "question": "Which continent has the most countries?",
+        "options": [
+            "Asia",
+            "Africa",
+            "Europe",
+            "South America" 
+        ],
+        "answer": "Africa",
+        "category": "general"
+    },
+    {
+        "id": 90,
+        "question": "Which planet has the most moons in our solar system?",
+        "options": [
+            "Jupiter",
+            "Venus",
+            "Mars",
+            "Saturn" 
+        ],
+        "answer": "Saturn",
+        "category": "general"
+    }
+]
+

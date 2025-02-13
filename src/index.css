@@ -1,0 +1,22 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+:root{
+  --exam-BG: #F8F7F4;
+  --exam-BGDE: #f1f6fb;
+  --exam-BL: #2A2B2A;
+  --exam-GR: #828382;
+  --exam-OR: #F47C35;
+  --exam-AC: #356DA4;
+  --exam-YL: #FDC830;
+}
+h1{
+  font-family: "Playfair Display", serif;
+}
+body{
+  font-family: "Nanum Gothic", sans-serif;
+  background-color: var(--exam-BG);
+  color: var(--exam-BL);
+}

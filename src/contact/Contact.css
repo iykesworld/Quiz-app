@@ -1,0 +1,79 @@
+.contact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 122px;
+}
+.map-responsive{
+    width: 800px;
+    height: 450px;
+}
+.map-responsive iframe{
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.contact-details{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin: 100px;
+}
+.contact-form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 60%;
+}
+.contact-form-field{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    gap: 20px;
+    margin: 20px;
+}
+.contact-form-field-input{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: 5px;
+}
+.contact-form-field-input input{
+    padding: 10px;
+    width: 100%;
+    outline: none;
+    border: 1px solid var(--exam-BL);
+    font-size: 20px;
+    border-radius: 20px;
+}
+.contact-form-field textarea{
+    width: 100%;
+    outline: none;
+    border: 1px solid var(--exam-BL);
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.contact-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.contact-info-list{
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    align-items: start;
+}
+.contact-info-list li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}

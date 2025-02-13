@@ -1,0 +1,116 @@
+.footer{
+    position: relative;
+    width: 100%;
+    margin-top: 50px;
+}
+.footer-newsletter{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    display: flex;
+    padding: 20px 50px;
+    gap: 20px;
+    background-image: linear-gradient(to right, var(--exam-YL), var(--exam-OR));
+    flex-direction: column;
+    border-radius: 40px;
+    align-items: center;
+    justify-content: center;
+}
+.fotter-newsletter-form input{
+    padding: 10px;
+    outline: none;
+    border: none;
+}
+.fotter-newsletter-form button{
+    padding: 10px;
+    outline: none;
+    border: none;
+    background-color: var(--exam-AC);
+    color: var(--exam-BG);
+}
+.footer-main{
+    width: 100%;
+    background-color: var(--exam-BGDE);
+    padding: 100px 122px 10px 122px;
+    display: flex;
+    flex-direction: column;
+}
+.footer-main-top{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.logo-wrapper{
+    width: 400px;
+}
+.footerlogo{
+    width: 100px;
+    height: 50px;
+}
+.footerlogo img{
+    width: 100%;
+    height: 100%;
+}
+.footer-contacts{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.footer-contacts li{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.footer-contacts p{
+    font-weight: 700;
+}
+.footer-contacts span{
+    color: var(--exam-GR);
+}
+.footer-contacts i{
+    color: var(--exam-OR);
+}
+.quick-link{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.quick-link li{
+    list-style: none;
+}
+.quick-link li:nth-child(1){
+    font-weight: 700;
+}
+.quicklinks-link{
+    text-decoration: none;
+    color: var(--exam-BL);
+}
+.quick-link a{
+    text-decoration: none;
+    color: var(--exam-BL);
+}
+.footer-mainbottom{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+.footer-main-bottom-flex{
+    display: flex;
+    justify-content: space-between;
+}
+.footer-main-bottom-flex span{
+    color: var(--exam-GR);
+}
+.footer-socials{
+    display: flex;
+    gap: 5px;
+}
+.footer-socials li{
+    list-style: none;
+    padding: 5px;
+    background-color: var(--exam-AC);
+    color: var(--exam-BG);
+    border-radius: 50%;
+}
