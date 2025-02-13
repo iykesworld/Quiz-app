@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './Quiz.css'
 import Pageheader from '../component/Pageheader/Pageheader'
 import sportImage from '../assets/quiz-category-1.jpg'
@@ -10,7 +10,8 @@ import musicIcon from '../assets/Group 7.svg'
 import scienceIcon from '../assets/science-icon-1.svg'
 import generalIcon from '../assets/popular-icon.svg'
 import cursoIcon from '../assets/click-icon.svg'
-import { Link } from 'react-router-dom'
+import { Link, useNavigate } from 'react-router-dom'
+import Loading from './Loading'
 
 const categories = [
     {
@@ -45,21 +46,34 @@ const categories = [
 ]
 
 const Quiz = () => {
+    const [loading, setLoading] = useState(false);
+    const navigate = useNavigate()
+
+    const handleStartQuiz = (path)=>{
+        setLoading(true);
+        // Start Quiz Here
+        setTimeout(()=>{
+            navigate(`/quiz/${path}`)
+            setLoading(false); 
+        }, 5000)
+        
+    }
   return (
     <>
+    {loading && <Loading/>}
     <Pageheader title="Quiz" subtitle="Home" name="Quiz" />
     <div className="quiz">
         <div className="quiz-categories">
             {
                 categories.map(category => (
                     <div key={category.id} className='quiz-categories-wrapper' style={{ backgroundImage: `url(${category.image})`, backgroundSize: 'cover', backgroundPosition: 'center' }}>
-                        <Link className='quiz-link' to={`/quiz/${category.path}`}>
+                        <div className='quiz-link'>
                             <h2>{category.title}</h2>
-                            <div className="quiz-enter">
+                            <button onClick={()=> handleStartQuiz(category.path)} className="quiz-enter">
                                 <p>Enter</p>
                                 <img src={cursoIcon} alt="curso icon" />
-                            </div>
-                        </Link>
+                            </button>
+                        </div>
                     </div>
                 ))
             }

@@ -3,6 +3,7 @@ import "./Quiz.css"
 import { useParams } from 'react-router-dom'
 import quizes from '../data/quiz.json'
 import Pageheader from '../component/Pageheader/Pageheader'
+import QuizCard from './QuizCard'
 
 const QuizCategory = () => {
     const {categoryName} = useParams();
@@ -13,9 +14,14 @@ const QuizCategory = () => {
         setFilteredQuiz(filtered);
     }, [categoryName])
   return (
-    <>
-    <Pageheader title={categoryName} subtitle="Home" name={categoryName}/>
-    </>
+    <div className='quiz-category'>
+    <div className="quiz-category-top">
+        <h1>{categoryName} Quiz</h1>
+        <p className='quiz-category-top-text'>Attention! You have 60 seconds to answer all questions</p>
+        <p className='quiz-category-top-text'>Please keep an eye on the timer and make sure to answer all question before time runs out</p>
+        <QuizCard questions={filteredQuiz}/>
+    </div>
+    </div>
   )
 }
 

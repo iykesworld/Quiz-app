@@ -11,7 +11,7 @@ const Hero = () => {
             <p>Challenge Your Knowledge! Discover, Learn, and 
             Compete with Fun Quizzes Across Topics.</p>
             <div className="button-flex">
-                <Link className='hero-start-quiz'>Start Quiz</Link>
+                <Link to="/quiz" className='hero-start-quiz'>Start Quiz</Link>
                 <Link className='hero-learn'><i className="ri-arrow-right-wide-line"></i><span>Learn More</span></Link>
             </div>
         </div>
